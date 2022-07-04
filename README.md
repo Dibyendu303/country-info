@@ -6,4 +6,4 @@ Also used React Router v6.\
 \
 Design inspiration - FrontendMentor.io\
 \
-Project hosted on Firebase. Link: https://country-info-dib.web.app/\
+Project hosted on Firebase. Link: https://country-info-dib.web.app/
