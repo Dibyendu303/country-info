@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Project Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Created a react app to search and display information about countries using the REST countries API. Here, I have used react hooks like useState, useReducer, useContext and also a custom hook to fetch data from the API. Also used React Router v6.
+Design inspiration - FrontendMentor.io
+Project hosted on Firebase. Link: https://country-info-dib.web.app/
 
 ## Available Scripts
 
